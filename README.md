@@ -2,7 +2,7 @@
 
 **Give a website URL. Get a reusable test suite, verified locator repairs, and a Test Quality Report with browser evidence.**
 
-Built for the Bessemer Tech Catalyst AI/ML problem statement. AIVAR coordinates **Planner → Generator → Executor → Healer → Defect Classifier**, evaluates coverage between stages, and records why it reused, extended, retried, repaired or escalated a test.
+**Planner → Generator → Executor → Healer → Defect Classifier**, evaluates coverage between stages, and records why it reused, extended, retried, repaired or escalated a test.
 
 The focus is maintaining useful tests as a website changes. Repeat runs retain scenario IDs and expected results. Locator drift can be repaired after verification; changed expected behavior remains visible as a failure requiring investigation.
 
